@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mido\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mido\\.nuget\\packages"
+    ]
+  }
+}

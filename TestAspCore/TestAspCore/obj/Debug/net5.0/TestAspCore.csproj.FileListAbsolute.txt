@@ -1,0 +1,134 @@
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\appsettings.json
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.exe
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.deps.json
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.runtimeconfig.json
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.runtimeconfig.dev.json
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\ref\TestAspCore.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.pdb
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.csprojAssemblyReference.cache
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.AssemblyInfoInputs.cache
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.AssemblyInfo.cs
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\staticwebassets\TestAspCore.StaticWebAssets.Manifest.cache
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\staticwebassets\TestAspCore.StaticWebAssets.xml
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\scopedcss\bundle\TestAspCore.styles.css
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.RazorTargetAssemblyInfo.cache
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.csproj.CopyComplete
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\ref\TestAspCore.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.pdb
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.genruntimeconfig.cache
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mido\source\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\appsettings.json
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.exe
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.deps.json
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.runtimeconfig.json
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.runtimeconfig.dev.json
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\ref\TestAspCore.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\TestAspCore.pdb
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.AssemblyInfoInputs.cache
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.AssemblyInfo.cs
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\staticwebassets\TestAspCore.StaticWebAssets.Manifest.cache
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\staticwebassets\TestAspCore.StaticWebAssets.xml
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\scopedcss\bundle\TestAspCore.styles.css
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.RazorTargetAssemblyInfo.cache
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.csproj.CopyComplete
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\ref\TestAspCore.dll
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.pdb
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.genruntimeconfig.cache
+C:\Users\Mido\OneDrive - Alexandria University\repos\TestAspCore\TestAspCore\obj\Debug\net5.0\TestAspCore.csprojAssemblyReference.cache
